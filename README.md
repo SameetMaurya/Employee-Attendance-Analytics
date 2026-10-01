@@ -229,7 +229,7 @@ The SQL analysis includes queries for:
 
 ## SQL file:
 
-`sql/attendance_analysis.sql`
+[📄 View SQL Analysis](sql/attendance_analysis.sql)
 
 ---
 
@@ -244,7 +244,7 @@ Libraries used:
 
 ## Python file:
 
-`python/attendance_analysis.py`
+[🐍 View Python Analysis](python/attendance_analysis.py)
 
 ---
 
@@ -259,7 +259,7 @@ The Excel workbook contains:
 
 ## Excel file:
 
-excel/Employee_Attendance_Analysis.xlsx
+[📊 View Excel Analysis](excel/Employee_Attendance_Analysis.xlsx)
 
 
 ## 📄 Project Report
@@ -277,7 +277,7 @@ Business insights
 Conclusion
 ## Report:
 
-reports/Attendance_Analysis_Report.pdf
+[📑 View Project Report](reports/Attendance_Analysis_Report.pdf)
 
 
 ## 💡 Business Insights
