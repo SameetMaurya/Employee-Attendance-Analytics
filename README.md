@@ -229,7 +229,7 @@ The SQL analysis includes queries for:
 
 ## SQL file:
 
-sql/attendance_analysis.sql
+`sql/attendance_analysis.sql`
 
 ---
 
@@ -244,7 +244,7 @@ Libraries used:
 
 ## Python file:
 
-python/attendance_analysis.py
+`python/attendance_analysis.py`
 
 ---
 
